@@ -9,7 +9,7 @@ categories = ["Miscellaneous"]
 +++
 ## I'm done. No more school. What's next?
 
-I did it. I graduated. Today at 12:03 PM, I finished my last final and it still hasn't hit me yet. I have plenty of thing still yet to do, but the most intense relief that did hit me was I never have to do an assignment that I do not want to without getting paid (homework). I don't have school and currently my job working for the school is ending by the end of the week, so I'll be out of work to. I've been searching for jobs but sooner enough I'll have a degree in hand to prove I made it through ~~prison~~ school. 
+I did it. I graduated. Today at 12:03 PM, I finished my last final and it still hasn't hit me yet. I have plenty of thing still yet to do, but the most intense relief that did hit me was I never have to do an assignment that I do not want to without getting paid (homework). I don't have school and currently my job working for the school is ending by the end of the week, so I'll be out of work to. I've been searching for jobs but soon enough I'll have a degree in hand to prove I made it through ~~prison~~ school. 
 
 On one hand, I really want to retire today. I've done 16 years of hard work and I think that means I'll retire right? Well...sort of. I need a job now that I'll be having a degree. But additionally I seem to be a life-long learner; I'm always curious and I want to keep learning more. I want to be one of the best at a particular subject...but I do not know yet what subject. Other (former) students have asked me what job I'll be actively going for and to honestly answer their question:
 
@@ -34,7 +34,7 @@ So where does this leave me? Well, I still want a job as one day a security pene
 
 ## The Plan: Not-quite-zero to Hero
 
-This preception of my lack of skills whilist determined entirely by myself is motivating. Fact: By 19 Alexander Hamilton was in charge of his own trading charter. Fact: I am 22 and I have not achieved anything. Well I quite soon will get this piece of paper or something but that doesn't count.
+This preception of my lack of skills whilst determined entirely by myself is motivating. Fact: By 19 Alexander Hamilton was in charge of his own trading charter. Fact: I am 22 and I have not achieved anything. Well I quite soon will get this piece of paper or something but that doesn't count.
 
 I will achieve my goals and be the ideal version of myself that I want to be. That is precisely, a penetration tester who somehow for something I too have not figured out as of this time, will be in written about in history books for. In order to do so, I have started by creating an outline of my own steps that I am going to take to step-by-step shift myself into a better cybersecurity professional and into the person I want to be. 
 
