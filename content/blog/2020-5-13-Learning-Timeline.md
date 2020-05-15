@@ -4,7 +4,7 @@ title = "Learning Timeline"
 date = "2020-05-13"
 description = "An outline and description of my new learning timeline in the coming months."
 tags = ["Graduate", "Near Future", "Plans"]
-images  = ["files/Learning-Timeline/Timeline.png"]
+images  = ["files/LearningTimeline/Timeline.png"]
 categories = ["Miscellaneous"]
 +++
 ## I'm done. No more school. What's next?
@@ -40,7 +40,7 @@ I will achieve my goals and be the ideal version of myself that I want to be. Th
 
 So, in combination with my current [Trello Board](https://trello.com/b/6oD5SGbb/personal-board) and the [Office Timelines App](https://online.officetimeline.com/), I have made a (so far) seven-month plan on reaching learning to enhance my marketability, personal interests/skills, and finally take my first concrete step toward becoming a penetration tester.
 
-![Python program 4-Picture Output](/files/Learning-Timeline/Timeline.png)
+![Timeline Phto](/files/LearningTimeline/Timeline.png)
 
 Some of my big-ticket items to achieve include the following:
 1. PCNSE Certification
