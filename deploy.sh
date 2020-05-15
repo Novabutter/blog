@@ -1,18 +1,25 @@
-#!/bin/bash
+#!/bin/sh
 
-echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
+# If a command fails then the deploy stops
+set -e
+
+printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
+
+# Build the project.
+hugo -t hugo-future-imperfect-slim # if using a theme, replace with `hugo -t <YOURTHEME>`
+
+# Go To Public folder
 cd public
-if [ -n "$GITHUB_AUTH_SECRET" ]
 
-then
-    touch ~/.git-credentials
-    chmod 0600 ~/.git-credentials
-    echo $GITHUB_AUTH_SECRET > ~/.git-credential
-    git config credential.helper store
-    git config user.email "glicameli+blog-bot@outlook.com"
-    git config user.name "novabutter-blog-bot"
-fi
-
+# Add changes to git.
 git add .
-git commit -m "Rebuild site"
+
+# Commit changes.
+msg="rebuilding site $(date)"
+if [ -n "$*" ]; then
+	msg="$*"
+fi
+git commit -m "$msg"
+
+# Push source and build repos.
 git push --force origin HEAD:master
