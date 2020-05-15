@@ -2,7 +2,7 @@
 then
     touch ~/.git-credentials
     chmod 0600 ~/.git-credentials
-    echo $GITHUB_AUTH_SECRET > ~/.git-credentials    git config credential.helper store
+    echo $GITHUB_TOKEN > ~/.git-credentials    git config credential.helper store
     git config user.email "glicameli+blog-bot@outlook.com"
     git config user.name "novabutter-blog-bot"
 figit add .
