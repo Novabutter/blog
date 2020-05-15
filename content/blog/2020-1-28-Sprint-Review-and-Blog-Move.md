@@ -22,26 +22,26 @@ Most of the items here that I did not complete I moved to a different week for p
 
 My intended focuses:
 
-- [ ]  Complete OverTheWire Bandit CTF.
-- [ ]  Finish Developing a Logo for the Cyber Range
-- [X]  Finish Cyber Range Website(s)
-- [X]  Try out the tool: Searchsploit
-- [ ]  Finish the Kali Linux Revealed book
-- [ ]  Finish a YouTube Series on Linux Administration
-- [ ]  Start the Metasploit Unleashed course/book
-- [ ]  Research MaaS (for work)
+* [ ]  Complete OverTheWire Bandit CTF.
+* [ ]  Finish Developing a Logo for the Cyber Range
+* [X]  Finish Cyber Range Website(s)
+* [X]  Try out the tool: Searchsploit
+* [ ]  Finish the Kali Linux Revealed book
+* [ ]  Finish a YouTube Series on Linux Administration
+* [ ]  Start the Metasploit Unleashed course/book
+* [ ]  Research MaaS (for work)
 
 Repeating Activities include:
 
-- [X]  Cyber Defense Team Studying
-- [X]  Continue Web Developer Bootcamp
-- [ ]  Continue Docker Course
-- [ ]  Apply for Jobs
+* [X]  Cyber Defense Team Studying
+* [X]  Continue Web Developer Bootcamp
+* [ ]  Continue Docker Course
+* [ ]  Apply for Jobs
 
 Additional Non-Focused Activities:
 
-- [ ]  Update Passwords
-- [ ]  SMTP & IMAP Setup in Virtual Lab
+* [ ]  Update Passwords
+* [ ]  SMTP & IMAP Setup in Virtual Lab
 
 ### Review
 
