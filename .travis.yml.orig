@@ -6,13 +6,8 @@ script:
   - hugo
   - chmod +x ./deploy.sh
 deploy:
-    local_dir: public    
-    repo: Novabutter/novabutter.github.io
-    target_branch: master
-    github_token: $GITHUB_AUTH_SECRET
-    email: glicameli+blog-bot@outlook.com
-    name: "novabutter-blog-bot"
-    provider: pages
+  - provider: script
+    script: ./deploy.sh
     skip_cleanup: true
     on:
       branch: master
