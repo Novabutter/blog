@@ -36,7 +36,8 @@ Repeating Activities include:
 * [X]  Cyber Defense Team Studying
 * [X]  Continue Web Developer Bootcamp
 * [ ]  Continue Docker Course
-* [ ]  Apply for Jobs
+<br><input type="checkbox" disabled checked>
+  <label>Apply for Jobs</label><br>
 
 Additional Non-Focused Activities:
 
